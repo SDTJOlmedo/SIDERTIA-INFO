@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /wp-admin/
-Disallow: /gestion-backups/
+Disallow: /gestion-cuentas/
 Allow: /wp-admin/admin-ajax.php
 Disallow: YmFuZGVyYTM6IDlyaWY4NF9lNC5mKg==
 Allow: /joomla/
